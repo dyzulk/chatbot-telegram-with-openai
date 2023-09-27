@@ -71,6 +71,30 @@ Once you have the valid tokens, replace "API_TOKEN_BOT" with the provided Telegr
 
 By making these replacements, you will set the values of the tgBot_token and openAi_token variables according to the required API tokens for your application.
 
+If the .env file does not exist, create a duplicate of the .env.example file then change the name to .env
+
+### Change reply message
+
+You can change reply message on
+
+```
+async def welcome(message: types.Message):
+  await message.reply(
+    "FILL_CHAT_MESSAGE_HERE"
+  )
+```
+
+Or message with a separate chat bubble
+
+```
+  async def welcome(message: types.Message):
+  await message.reply(
+    "FILL_CHAT_MESSAGE_HERE"
+  )
+  await message.reply(
+    "FILL_CHAT_MESSAGE_HERE"
+  )
+```
 
 
 # Support Us

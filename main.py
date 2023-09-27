@@ -2,7 +2,7 @@ import os
 import openai
 from dotenv import load_dotenv
 from aiogram import Bot, Dispatcher, executor, types
-# from keep_alive import keep_alive
+from keep_alive import keep_alive
 
 load_dotenv()
 
@@ -57,6 +57,6 @@ async def gpt(message: types.Message):
                                       presence_penalty=0.0)
   await message.reply(response.choices[0].text)
 
-# keep_alive()
+keep_alive()
 if __name__ == "__main__":
   executor.start_polling(dp)
