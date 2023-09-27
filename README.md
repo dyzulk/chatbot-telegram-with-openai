@@ -56,7 +56,7 @@ git clone https://github.com/dyzulk/chatbot-telegram-with-openai.git
 
 ### Or Download This Release
 
-<a href="https://github.com/dyzulk/chatbot-telegram-with-openai/archive/refs/heads/main.zip"><img alt="Download Button" src="https://cdn.dyzulk.com/assets/image/download-button.png" width="150px" /></a>
+<a href="https://github.com/dyzulk/chatbot-telegram-with-openai/releases/"><img alt="Download Button" src="https://cdn.dyzulk.com/assets/image/download-button.png" width="150px" /></a>
 
 ### Change The API Token
 
