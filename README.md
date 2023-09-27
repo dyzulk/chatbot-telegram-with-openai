@@ -1,5 +1,5 @@
 <p align="center">
-  <a  href="https:t.me/EndayWithGPTBot"><img alt="Avatar Bot Image" src="images/avatarbot.png" width="250px" /> </a>
+  <a  href="https:t.me/EndayWithGPTBot"><img alt="Avatar Bot Image" src="https://raw.githubusercontent.com/dyzulk/dyzulk/main/favicon.png" width="250px" /> </a>
   <h1 align="center">EndayWithOpenAI</h1>
 </p>
 
