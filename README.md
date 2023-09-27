@@ -54,9 +54,9 @@ git clone https://github.com/dyzulk/chatbot-telegram-with-openai.git
 5. Wait for a moment until the cloning process is complete. Once finished, you will have a local copy of the repository in the specified directory.
 6. By following these steps, you have successfully cloned the project from the GitHub repository to your local machine.
 
-### Or Download This Repo
+### Or Download This Release
 
-<a href="https://github.com/dyzulk/chatbot-telegram-with-openai/archive/refs/heads/main.zip" target="_blank"><strong>Click Here To Download</strong></a>
+<a href="https://github.com/dyzulk/chatbot-telegram-with-openai/archive/refs/heads/main.zip" src="https://cdn.dyzulk.com/assets/image/download-button.png" target="_blank"></a>
 
 ### Change The API Token
 
